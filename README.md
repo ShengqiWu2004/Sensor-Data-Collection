@@ -7,7 +7,7 @@ It is designed to be beginner-friendly for users without a computer science back
 
 - **PPGcollect/**  
   Contains Arduino code (`PPGcollect.ino`) and Python script (`ppg_serial_logger.py`) for collecting **PPG (Photoplethysmography)** sensor data.  
-  The tutorial for setup and usage is provided in [PPG Collection Tutorial](./PPGcollect/README.md).
+  The tutorial for setup and usage is provided in [PPG Collection Tutorial](./PPGcollect/PPG Collection Tutorial.md).
 
 - **datasetCollection/**  
   Contains Arduino and Python code for collecting **Acceleration & Gyroscope (IMU)** sensor data.
